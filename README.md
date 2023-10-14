@@ -14,9 +14,9 @@
 - Sistem Informasi Penerbangan : Menyediakan informasi penerbangan real-time.
 - Sistem Manajemen Pelanggan : Membuat dan mengelola profil pelanggan, riwayat penerbangan, dan preferensi.
 
-# Use Case
+# 3. Use Case
 ![usecase](https://github.com/mullf/Usecase-2/assets/115521049/7e9978ef-8355-47dd-bcc4-37c87129527e)
-# Activity Diagram
+# 4. Activity Diagram
 ![activity diagram](https://github.com/mullf/Usecase-2/assets/115521049/28ee3442-8d96-475d-877c-c7aef12ea1c5)
-# Sequence Diagram
+# 5. Sequence Diagram
 ![sequence diagram](https://github.com/mullf/Usecase-2/assets/115521049/d32f1f1b-2246-4203-ba0b-0bb3460e7c6a)
