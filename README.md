@@ -10,7 +10,7 @@
 ## B. Kebutuhan sistemnya :
 - Sistem Manajemen Tiket : Melacak ketersediaan tiket, pemesanan, dan pembatalan tiket.
 - Keamanan : Melindungi data pelanggar dan transaksi dengan enkripsi yang kuat.
-- Sistem Pembayaran : Integrasi dengar penyedia pembayaran dan memproses pembayaran dengan aman.
+- Sistem Pembayaran : Integrasi dengan penyedia pembayaran dan memproses pembayaran dengan aman.
 - Sistem Informasi Penerbangan : Menyediakan informasi penerbangan real-time.
 - Sistem Manajemen Pelanggan : Membuat dan mengelola profil pelanggan, riwayat penerbangan, dan preferensi.
 
