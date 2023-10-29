@@ -20,3 +20,5 @@
 ![activity diagram](https://github.com/mullf/Usecase-2/assets/115521049/28ee3442-8d96-475d-877c-c7aef12ea1c5)
 # 5. Sequence Diagram
 ![sequence diagram](https://github.com/mullf/Usecase-2/assets/115521049/d32f1f1b-2246-4203-ba0b-0bb3460e7c6a)
+# 6. Class Diagram
+![class diagram](https://github.com/mullf/Usecase-2/assets/115521049/d1d78a2e-d6db-4223-93e7-bd0e8f53a9b3)
